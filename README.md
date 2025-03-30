@@ -1,5 +1,5 @@
 # MOFS_Resource
-整理的部分关于多目标特征选择的算法源代码，文件名格式[算法简称]-[编程语言]-[依赖平台]，代码均为作者发布的源代码，未作更改，使用时应自当更改实验环境。代码来源包括但不限于:
+整理的部分关于多目标特征选择的算法源代码，文件名格式 **[算法简称]-[编程语言]-[依赖平台]** ，代码均为作者发布的源代码，未作更改，使用时应自当更改实验环境。代码来源包括但不限于:
 1. https://github.com/HandingWangXDGroup
 2. https://github.com/penfwang?tab=repositories
 3. https://www5.zzu.edu.cn/cilab/Code.htm
