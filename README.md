@@ -12,19 +12,19 @@ tips:
 2. 更建议根据平台提供的源码改写到本地运行环境中,运行效率更高。
 
 # List
-| Algorithm | Journal | Year | Paper                                                                                                                          |
-| --------- | ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
-| MOFS-MST  | TSMC    | 2024 | A Space Transformation-Based Multiform Approach for Multiobjective Feature Selection in High-Dimensional Classification        |
-| TAEFS     | TEVC    | 2024 | Balancing Different Optimization Difficulty Between Objectives in Multi-Objective Feature Selection                            |
-| FPPFS     | TEVC    | 2024 | Learning to Preselection: A Filter-Based Performance Predictor for Multiobjective Feature Selection in Classification          |
-| BSOEA     | EC      | 2024 | A Tri-Objective Method for Bi-Objective Feature Selection in Classification                                                    |
-| IGEA      | IS      | 2024 | Information gain-based multi-objective evolutionary algorithm for feature selection                                            |
-| SCGP      | EC      | 2024 | Genetic Programming for Automatically Evolving Multiple Features to Classification                                             |
-| DDFS      | SCIS    | 2024 | An evolutionary multiobjective method based on dominance and decomposition for feature selection in classification             |
-| FS-DOS    | ASOC    | 2023 | Multiobjective optimization algorithm with dynamic operator selection for feature selection in high-dimensional classification |
-| MODENCA   | KBS     | 2023 | An evolutionary filter approach to feature selection in classification for both single- and multi-objective scenarios          |
-| DMBDE     | IS      | 2023 | Feature Selection Using Diversity-Based Multi-objective Binary Differential Evolution                                          |
-| PRDH      | TEVC    | 2022 | Solving Multiobjective Feature Selection Problems in Classification via Problem Reformulation and Duplication Handling         |
-| MFFS      | TCYB    | 2022 | Benefiting From Single-Objective Feature Selection to Multiobjective Feature Selection: A Multiform Approach                   |
-| SM-MOEA   | TCYB    | 2021 | A Steering-Matrix-Based Multiobjective Evolutionary Algorithm for High-Dimensional Feature Selection                           |
-| DAEA      | TEVC    | 2020 | A Duplication Analysis-Based Evolutionary Algorithm for Biobjective Feature Selection                                          |
+| No. | Algorithm | Journal | Year | Paper                                                                                                                          |
+| --- | --------- | ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1.  | MOFS-MST  | TSMC    | 2024 | A Space Transformation-Based Multiform Approach for Multiobjective Feature Selection in High-Dimensional Classification        |
+| 2.  | TAEFS     | TEVC    | 2024 | Balancing Different Optimization Difficulty Between Objectives in Multi-Objective Feature Selection                            |
+| 3.  | FPPFS     | TEVC    | 2024 | Learning to Preselection: A Filter-Based Performance Predictor for Multiobjective Feature Selection in Classification          |
+| 4.  | BSOEA     | EC      | 2024 | A Tri-Objective Method for Bi-Objective Feature Selection in Classification                                                    |
+| 5.  | IGEA      | IS      | 2024 | Information gain-based multi-objective evolutionary algorithm for feature selection                                            |
+| 6.  | SCGP      | EC      | 2024 | Genetic Programming for Automatically Evolving Multiple Features to Classification                                             |
+| 7.  | DDFS      | SCIS    | 2024 | An evolutionary multiobjective method based on dominance and decomposition for feature selection in classification             |
+| 8.  | FS-DOS    | ASOC    | 2023 | Multiobjective optimization algorithm with dynamic operator selection for feature selection in high-dimensional classification |
+| 9.  | MODENCA   | KBS     | 2023 | An evolutionary filter approach to feature selection in classification for both single- and multi-objective scenarios          |
+| 10. | DMBDE     | IS      | 2023 | Feature Selection Using Diversity-Based Multi-objective Binary Differential Evolution                                          |
+| 11. | PRDH      | TEVC    | 2022 | Solving Multiobjective Feature Selection Problems in Classification via Problem Reformulation and Duplication Handling         |
+| 12. | MFFS      | TCYB    | 2022 | Benefiting From Single-Objective Feature Selection to Multiobjective Feature Selection: A Multiform Approach                   |
+| 13. | SM-MOEA   | TCYB    | 2021 | A Steering-Matrix-Based Multiobjective Evolutionary Algorithm for High-Dimensional Feature Selection                           |
+| 14. | DAEA      | TEVC    | 2020 | A Duplication Analysis-Based Evolutionary Algorithm for Biobjective Feature Selection                                          |
