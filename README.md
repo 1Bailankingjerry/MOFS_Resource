@@ -7,9 +7,9 @@
 5. https://github.com/ehancer06
 6. https://toyamaailab.github.io/
 
-tips:
+**tips:**
 1. 部分基于PlatEMO的算法，建议自己编写FS测试问题，可参考Ruwang Jiao提出的MFFS中的[FeatureSelectionNoisy.m](https://github.com/RuwangJiao/MFFS/blob/main/FeatureSelectionNoisy.m "FeatureSelectionNoisy.m"),  Zhenzhou Song提出的TAEFS中的[MOFS.m](https://github.com/HandingWangXDGroup/TAEFS-Matlab/blob/main/TAEFS/Problems/MOFS.m "MOFS.m"), 以及Baohang Zhang 提出的IGEA中的FS.m.  
-2. 更建议根据平台提供的源码改写到本地运行环境中,运行效率更高。
+2. 更建议将平台提供的源码改写到本地环境中,运行效率更高。
 
 # List
 | No. | Algorithm | Journal | Year | Paper                                                                                                                          |
