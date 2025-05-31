@@ -15,6 +15,7 @@
 # List
 | No. | Algorithm | Journal | Year | Paper                                                                                                                          |
 | --- | --------- | ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 15. | MBLPE     | EAAI    | 2025 | A binary linear predictive evolutionary algorithm with feature analysis for multiobjective feature selection in classification |
 | 1.  | MOFS-MST  | TSMC    | 2024 | A Space Transformation-Based Multiform Approach for Multiobjective Feature Selection in High-Dimensional Classification        |
 | 2.  | TAEFS     | TEVC    | 2024 | Balancing Different Optimization Difficulty Between Objectives in Multi-Objective Feature Selection                            |
 | 3.  | FPPFS     | TEVC    | 2024 | Learning to Preselection: A Filter-Based Performance Predictor for Multiobjective Feature Selection in Classification          |
@@ -29,3 +30,4 @@
 | 12. | MFFS      | TCYB    | 2022 | Benefiting From Single-Objective Feature Selection to Multiobjective Feature Selection: A Multiform Approach                   |
 | 13. | SM-MOEA   | TCYB    | 2021 | A Steering-Matrix-Based Multiobjective Evolutionary Algorithm for High-Dimensional Feature Selection                           |
 | 14. | DAEA      | TEVC    | 2020 | A Duplication Analysis-Based Evolutionary Algorithm for Biobjective Feature Selection                                          |
+
