@@ -15,6 +15,7 @@
 # List
 | No. | Algorithm | Journal | Year | Paper                                                                                                                          |
 | --- | --------- | ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 16. | EMTRE(single FS)     | KBS     | 2025 |Enhancing Evolutionary Multitasking for High-Dimensional Feature Selection Through Task Relevance Evaluation and Knowledge Transfer|
 | 15. | MBLPE     | EAAI    | 2025 | A binary linear predictive evolutionary algorithm with feature analysis for multiobjective feature selection in classification |
 | 1.  | MOFS-MST  | TSMC    | 2024 | A Space Transformation-Based Multiform Approach for Multiobjective Feature Selection in High-Dimensional Classification        |
 | 2.  | TAEFS     | TEVC    | 2024 | Balancing Different Optimization Difficulty Between Objectives in Multi-Objective Feature Selection                            |
